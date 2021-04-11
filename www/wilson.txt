@@ -1,0 +1,57 @@
+Connecting to BR.whois-servers.net...
+Server BR.whois-servers.net returned the following for WILSON.COM.BR
+
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2021-04-11T14:07:12-03:00 - IP: 201.157.253.134
+
+domain:      wilson.com.br
+owner:       RAIZ DE DOIS CONF
+ownerid:     00.332.582/0001-03
+responsible: Frank Wilson
+country:     BR
+owner-c:     FRWIL
+tech-c:      WAW2
+nserver:     ns1.madweb.com.br
+nsstat:      20210409 AA
+nslastaa:    20210409
+nserver:     ns2.madweb.com.br
+nsstat:      20210409 AA
+nslastaa:    20210409
+nserver:     ns3.madweb.com.br
+nsstat:      20210409 AA
+nslastaa:    20210409
+created:     19980821 #112796
+changed:     20180818
+expires:     20280821
+status:      published
+
+nic-hdl-br:  FRWIL
+person:      Frank Wilson
+e-mail:      frankwsn@gmail.com
+country:     BR
+created:     20070801
+changed:     20190517
+
+nic-hdl-br:  WAW2
+person:      Wagner Wilson
+e-mail:      wagnerwilson@gmail.com
+country:     BR
+created:     19980312
+changed:     20210331
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, CIDR block, IP and ASN.
+
+
+Connecting to ilson.com.br...

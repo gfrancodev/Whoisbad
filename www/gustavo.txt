@@ -1,0 +1,46 @@
+Connecting to BR.whois-servers.net...
+Server BR.whois-servers.net returned the following for GUSTAVO.COM.BR
+
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at https://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2021-04-11T06:37:26-03:00 - IP: 201.157.253.134
+
+domain:      gustavo.com.br
+owner:       Gustavo Mazzarollo
+ownerid:     689.771.400-30
+country:     BR
+owner-c:     GUM14
+tech-c:      GUM14
+nserver:     home.gustavo.com.br 187.16.224.66
+nsstat:      20210410 AA
+nslastaa:    20210410
+nserver:     tucano.certelnet.com.br
+nsstat:      20210410 AA
+nslastaa:    20210410
+created:     19980407 #92612
+changed:     20180320
+expires:     20230407
+status:      published
+
+nic-hdl-br:  GUM14
+person:      Gustavo Mazzarollo
+e-mail:      gustavo_mazzarollo@hotmail.com
+country:     BR
+created:     19980406
+changed:     20150914
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, CIDR block, IP and ASN.
+
+
+Connecting to ustavo.com.br...
