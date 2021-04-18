@@ -1,5 +1,5 @@
 <?php
-namespace Whoisbad\providers;
+namespace Whoisbad\Daring\providers;
 
 interface IwhoisProvider
 {

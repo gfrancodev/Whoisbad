@@ -1,0 +1,19 @@
+{
+  "name": "whoisbad/daring",
+  "description": "Study related to data leakage and whois privacy.",
+  "keywords": [
+    "php",
+    "whoisbad",
+    "daring"
+  ],
+  "license": "MIT",
+  "type": "project",
+  "require": {
+    "php": "~8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Whoisbad\\Daring\\": "Daring"
+    }
+  }
+}
