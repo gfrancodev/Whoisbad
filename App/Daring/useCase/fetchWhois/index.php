@@ -14,10 +14,9 @@ $fetchGateway = new fetchWhoisGateway(
   fetchWhoisUseCase: $fetchWhoisUseCase
 );
 
-print $fetchGateway->handle("gustavo.com.br");
+$objeto = $fetchGateway->handle("ihcriei.com.br");
 
-
-
+$var = array($objeto);
 
 
 
